@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ed78954.chunk.css",
+    "main.js": "/static/js/main.e1b44ed5.chunk.js",
+    "main.js.map": "/static/js/main.e1b44ed5.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.9865fae3.chunk.js": "/static/js/2.9865fae3.chunk.js",
+    "static/js/2.9865fae3.chunk.js.map": "/static/js/2.9865fae3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dc31d1f7cfd52b138e1fb4d874e0a79e.js": "/precache-manifest.dc31d1f7cfd52b138e1fb4d874e0a79e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3ed78954.chunk.css.map": "/static/css/main.3ed78954.chunk.css.map",
+    "static/media/Batman_0180.jpg": "/static/media/Batman_0180.aa97868c.jpg",
+    "static/media/KFOmCnqEu92Fr1Mu4WxKOzY.woff2": "/static/media/KFOmCnqEu92Fr1Mu4WxKOzY.7aa7eb76.woff2",
+    "static/media/KFOmCnqEu92Fr1Mu4mxK.woff2": "/static/media/KFOmCnqEu92Fr1Mu4mxK.5d4aeb4e.woff2",
+    "static/media/KFOmCnqEu92Fr1Mu5mxKOzY.woff2": "/static/media/KFOmCnqEu92Fr1Mu5mxKOzY.efe93799.woff2",
+    "static/media/KFOmCnqEu92Fr1Mu72xKOzY.woff2": "/static/media/KFOmCnqEu92Fr1Mu72xKOzY.e3836d11.woff2",
+    "static/media/KFOmCnqEu92Fr1Mu7GxKOzY.woff2": "/static/media/KFOmCnqEu92Fr1Mu7GxKOzY.15d8ede0.woff2",
+    "static/media/KFOmCnqEu92Fr1Mu7WxKOzY.woff2": "/static/media/KFOmCnqEu92Fr1Mu7WxKOzY.a8350846.woff2",
+    "static/media/KFOmCnqEu92Fr1Mu7mxKOzY.woff2": "/static/media/KFOmCnqEu92Fr1Mu7mxKOzY.57993e70.woff2",
+    "static/media/avatar.jpg": "/static/media/avatar.0b93a5dc.jpg",
+    "static/media/mem-kot-tom-19.jpg": "/static/media/mem-kot-tom-19.cb215d3d.jpg"
+  }
+}
