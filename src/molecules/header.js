@@ -24,12 +24,12 @@ const HeaderWrap = styled.div`
 
 
 export default function Header() {
-  const url = window.location.pathname
+  const url = window.location.hash
 
   return (
     <HeaderWrap>
-      <HeaderLink to="/" active={url === '/'}>Главная</HeaderLink>
-      <HeaderLink to="/about" active={url === '/about'}>Обо мне</HeaderLink>
+      <HeaderLink to="/" active={url === '#/'}>Главная</HeaderLink>
+      <HeaderLink to="/about" active={url === '#/about'}>Обо мне</HeaderLink>
     </HeaderWrap>
   )
 }

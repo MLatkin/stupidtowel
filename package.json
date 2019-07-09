@@ -2,7 +2,7 @@
   "name": "nikolay",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mlatkin.github.io/stupidtowel/",
+  "homepage": "https://stupidtowel.github.io/resume/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

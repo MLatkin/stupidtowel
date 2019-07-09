@@ -4,6 +4,17 @@ import styled from 'styled-components'
 export const Image = styled.img`
   width: 30%;
   margin: 20px;
+  @media screen and (max-width: 500px) {
+    display: none;
+  }
+`
+
+export const MobileImage = styled.img`
+  width: calc(100% - 60px);
+  margin: 20px auto;
+  @media screen and (min-width: 500px) {
+    display: none;
+  }
 `
 
 export const Wrap = styled.div`
@@ -12,13 +23,20 @@ export const Wrap = styled.div`
 
 export const Page = styled.div`
   margin: 20px;
-  p {
-  margin: 5px 0;
-    display: flex;
-    flex-direction: column;
+  .description {
+    margin: 5px 0;
     h4 {
       margin: 10px 0;
     }
+  }
+  .additional {
+    color: #6f6f6f;
+    margin: 10px 0 0 0;
+  }
+  @media screen and (max-width: 500px) {
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
   }
 `
 
